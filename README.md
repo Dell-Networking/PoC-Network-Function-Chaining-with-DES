@@ -9,6 +9,7 @@ Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) a
 
 ------------------
 
+**Proof of Concept for Network Function Chaining**
 This is the template repo for Dell Enterprise SONiC Proof-of-Concept repos. Adopt this repo as you see fit to meet your needs as you build out a reference PoC repo.
 
 The formatting here should be basically maintained, with the source code in the src folder and an appropriate LICENCE and CONTRIBUTING guide available inline in the README or as separate files within the repo.
